@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.artjimlop:altex-image-downloader:0.0.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/27519d0c9d990bbdfd72c80c07b9fab7/transformed/jetified-altex-image-downloader-0.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/27519d0c9d990bbdfd72c80c07b9fab7/transformed/jetified-altex-image-downloader-0.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/27519d0c9d990bbdfd72c80c07b9fab7/transformed/jetified-altex-image-downloader-0.0.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.artjimlop/altex-image-downloader/0.0.4/f6705f24243e75eebebdc33404293bf73a27e038/altex-image-downloader-0.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.artjimlop/altex-image-downloader/0.0.4/11cddae0036d346480cb99b52a09aa447b8b0aca/altex-image-downloader-0.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

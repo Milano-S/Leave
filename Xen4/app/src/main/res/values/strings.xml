@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Xen4</string>
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="xen4logo">xen4Logo</string>
+    <string name="Hi">Hi, %s</string>
+    <string name="Offline">Offline</string>
+    <string name="forgot_password_detail">Forgot your password? Enter your login or email below. We will send you an email with a link to reset your password.</string>
+    <string name="trouble_accessing_the_system">Trouble accessing the system?</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="logo">logo</string>
+    <string name="login_email_address">Login/Email Address</string>
+    <string name="url">Url : %s</string>
+    <string name="no_task">no_task</string>
+    <string name="no_tasks_available">No Tasks Available</string>
+    <string name="four_o_four">404 - Oops! The resource you are looking for does not exist.</string>
+    <string name="url_https_xen4_uat_azurewebsites_net">Url : https://xen4-uat.azurewebsites.net</string>
+</resources>

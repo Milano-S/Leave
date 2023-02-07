@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.omadahealth:swipy:1.2.3@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/32e8acd1b90b249742b6af0a05b88ad3/transformed/jetified-swipy-1.2.3/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/32e8acd1b90b249742b6af0a05b88ad3/transformed/jetified-swipy-1.2.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/32e8acd1b90b249742b6af0a05b88ad3/transformed/jetified-swipy-1.2.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/32e8acd1b90b249742b6af0a05b88ad3/transformed/jetified-swipy-1.2.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.omadahealth/swipy/1.2.3/97349f2aa2b9b274884ebaaae9e0b7d5d4f5536b/swipy-1.2.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.omadahealth/swipy/1.2.3/26d3335b8535ec1d652d6134fa8df2b9d3169877/swipy-1.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
